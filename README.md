@@ -1,4 +1,4 @@
-# Neural Networks MNIST dataset
+## Neural Network Development for Recognizing Handwritten Digits
 
 ## Overview
 
